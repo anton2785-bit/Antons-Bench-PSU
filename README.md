@@ -22,6 +22,17 @@
  
 ## BOM
  
+| Name | Purpose | Qty | Cost (USD) | Distributor |
+|---|---|---|---|---|
+| [XT-60 Female Socket](https://www.aliexpress.com/item/1005006254541425.html) | Power output via XT-60 connector | 1 | $4.40 | AliExpress |
+| [USB Buck Boost](https://www.aliexpress.com/item/1005007965644879.html) | USB-A and USB-C power output | 1 | $3.20 | AliExpress |
+| [Buck Booster](https://www.aliexpress.com/item/1005010589586102.html) | Regulated adjustable voltage output | 1 | $20.00 | AliExpress |
+| [Banana Plugs](https://www.aliexpress.com/item/1005009340683009.html) | Cables for banana sockets | 1 | $10.00 | AliExpress |
+| [Banana Sockets](https://www.aliexpress.com/item/1005009017991022.html) | Voltage output terminals | 1 | $3.50 | AliExpress |
+| [Test Kit](https://www.aliexpress.com/item/1005005744366620.html) | Component testing accessories | 1 | $16.00 | AliExpress |
+
+**Total: ~$57.10 USD**
+
 
 ---
 ## Credits
