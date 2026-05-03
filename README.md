@@ -11,7 +11,7 @@
 <img width="1264" height="1066" alt="3d model frame" src="https://github.com/user-attachments/assets/295d492d-149e-4a30-9c67-a6372c26d401" />
 * This is the PSU with the wires sorted and ready to cut and soulder:
 <img width="2166" height="1218" alt="PSU sorted wires" src="https://github.com/user-attachments/assets/eafd7bf0-8db8-4dd0-8b65-534c1aad9943" />
----
+--- 
 ## Assembly
 * The PSU is oppened up and cleaned if needed.
 * Then the cables are sorted in groups for the power rails.
