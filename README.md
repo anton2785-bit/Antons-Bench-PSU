@@ -33,6 +33,10 @@
 
 **Total: ~$57.10 USD**
 
+---
+## Sidenote
+* I had contacted fraud squad about a ban appearing on the project page and they said that there is a mistake on their end. <img width="924" height="837" alt="image" src="https://github.com/user-attachments/assets/25e15866-2ad9-4191-af14-95240f438e24" />
+
 
 ---
 ## Credits
